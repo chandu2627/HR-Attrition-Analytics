@@ -118,5 +118,4 @@ df['Age_Group'] = pd.cut(df['Age'], bins=[18,25,35,45,60],
 
 ## 👤 Author
 **Chandu Manikanta**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polnati-chandu-manikanta-narasimha-0b4802259)
-| [GitHub](https://github.com/chandu2627)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/polnati-chandu-manikanta-narasimha-0b4802259) | [GitHub](https://github.com/chandu2627)

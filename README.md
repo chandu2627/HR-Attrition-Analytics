@@ -66,8 +66,7 @@ High-level KPIs: overall attrition rate, headcount, active employees, and attrit
 ### Page 2 — Attrition Drivers
 Deep-dive into root causes: salary band, work-life balance score, overtime, job satisfaction, and tenure buckets — with DAX-calculated attrition rates per segment.
 
-> 📄 Can't open .pbix? View the [Dashboard PDF](HR_Attrition_Dashboard.pdf) directly in your browser.
-
+> 📄 Can't open .pbix? View the [Dashboard PDF](HR_Attrition_Dashboard%20.pdf) directly in your browser.
 ---
 
 ## ⚙️ DAX Measures Used
